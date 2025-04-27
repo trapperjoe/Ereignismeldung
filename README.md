@@ -31,6 +31,7 @@ Folgende Dateien sind hier hochgeladen:
 4. Schaltung.JPG          # Eine detaillierte Zeichnung für eine bestimmte Anwendung mit allen beteiligten Komponenten. 
 5. Darstellung.JPG        # Ein Beispiel, wie eine grafische Anzeige und eine Meldung (per  E-Mail) aussehen kann.
 6. Batteriehalter.JPG     # Ein Beispiel für einen günstigen Batteriehalter für drei (Typ: AA) Batterien.
+7. main88.py              # Python PProgramm für das Einlesen eines analogen Messwertes und das Versenden über die serielle Schnittstelle.
    
 Die Kosten für ein solches Projekt sind minimal und in wenigen Stunden ist das Projekt fertiggestellt. 
 
