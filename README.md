@@ -25,11 +25,12 @@ Viele Anwenndungsmöglichkeiten sind denkbar, z.B.:
 - usw.
 
 Folgende Dateien sind hier hochgeladen: 
-1. Stoermelder.JPG        Eine kurze Beschreibung für welche Fälle diese Lösung geeignet ist.
-2. Blockschaltbild.JPG    Eine grafische Darstellung welche funktionalen Blöcke dieses Projekt erfordert.
-3. Funktionsablauf.JPG    Eine kurze Beschreibung was in den einzelnen Funktionsblöcken passiert und wie Meldungen weitergereicht werden.
-4. Schaltung.JPG          Eine detaillierte Zeichnung für eine bestimmte Anwendung mit allen beteiligten Komponenten. 
-5. Darstellung.JPG        Ein Beispiel, wie eine grafische Anzeige und eine Meldung (per  E-Mail) aussehen kann.
+1. Stoermelder.JPG        # Eine kurze Beschreibung für welche Fälle diese Lösung geeignet ist.
+2. Blockschaltbild.JPG    # Eine grafische Darstellung welche funktionalen Blöcke dieses Projekt erfordert.
+3. Funktionsablauf.JPG    # Eine kurze Beschreibung was in den einzelnen Funktionsblöcken passiert und wie Meldungen weitergereicht werden.
+4. Schaltung.JPG          # Eine detaillierte Zeichnung für eine bestimmte Anwendung mit allen beteiligten Komponenten. 
+5. Darstellung.JPG        # Ein Beispiel, wie eine grafische Anzeige und eine Meldung (per  E-Mail) aussehen kann.
+6. Batteriehalter.JPG     # Ein Beispiel für einen günstigen Batteriehalter für drei (Typ: AA) Batterien.
    
 Die Kosten für ein solches Projekt sind minimal und in wenigen Stunden ist das Projekt fertiggestellt. 
 
