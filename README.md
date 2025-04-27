@@ -25,7 +25,8 @@ Viele Anwenndungsmöglichkeiten sind denkbar, z.B.:
 - usw.
 
 Folgende Dateien sind hier hochgeladen: 
-1.
+1. Stoermelder.jpg  Eine kurze Beschreibung für welche Fälle diese Lösung geeignet ist.
+2. 
 
 Die Kosten für ein solches Projekt sind minimal und in wenigen Stunden ist das Projekt fertiggestellt. 
 
