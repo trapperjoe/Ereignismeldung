@@ -16,11 +16,12 @@ Für die hier gezeigte Lösung benötigt man folgende Hardware:
 - 3 x Batterien (Typ: AA) mit passendem Halter
 
 Viele Anwenndungsmöglichkeiten sind denkbar, z.B.:
-- Überwachung ob ein Fenster oder eine Türe in einer entfernten Hütte noch geschlossen ist.
-- Messen und Darsstellen der Bodenfeuchte in einem Feld für Gemüse oder Früchte.
-- Überprüfen ob ein Parkplatz noch frei ist oder nicht
-- Messen der Temperatur in einem entlegenen Keller
-- Meldung, wenn eine Tierfalle zugeschnappt hat
+- Überwachung ob ein Fenster oder eine Türe in einer abgelegenen Hütte noch geschlossen ist.
+- Messen und Darstellen der Bodenfeuchte in einem Feld für Gemüse oder Früchte.
+- Überprüfen ob ein Parkplatz noch frei ist oder nicht.
+- Messen der Temperatur in einem entlegenen Keller.
+- Meldung, wenn eine Tierfalle zugeschnappt hat.
+- Nachricht, wenn das Garagentor nicht geschlossen ist.
 - usw.
 - 
 Die Kosten für ein solches Projekt sind minimal und in wenigen Stunden ist das Projekt fertiggestellt. 
