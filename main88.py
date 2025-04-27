@@ -13,7 +13,7 @@ LED_green = Pin(12, Pin.OUT, value=0)
 # Initialisierung des ADC0 (GPIO26)
 adc0 = ADC(0)
 
-# Initialisierung von GPIO18 als Ausgang
+# Initialisierung des DONE Pins für die Fertigmeldung
 DONE = Pin(22, Pin.OUT) # setting this pin High will remove power, and wait for the next interval
 
 # Initialisierung: UART
