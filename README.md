@@ -12,7 +12,7 @@ Für die hier gezeigte Lösung benötigt man folgende Hardware:
 - 1 x RaspberryPi Pico W
 - 2 x LoraWAN Transceiver vom Typ RAK3272S ( https://www.elektronik-kompendium.de/sites/praxis/bauteil_rak3272s-breakout-board.htm ) 
 - 1 x Nano Power Timer HAT ( https://core-electronics.com.au/makerverse-nano-power-timer-hat-for-raspberry-pi-pico.html )
-- 1 x Magnetschalter mit passendem Magnet
+- 1 x Reed-Kontakt (= Magnetschalter) mit passendem Magnet
 - 3 x Batterien (Typ: AA) mit passendem Halter
 
 Viele Anwenndungsmöglichkeiten sind denkbar, z.B.:
