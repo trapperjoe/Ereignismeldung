@@ -27,7 +27,7 @@ Viele Anwenndungsmöglichkeiten sind denkbar, z.B.:
 Folgende Dateien sind hier hochgeladen: 
 1. Stoermelder.JPG        Eine kurze Beschreibung für welche Fälle diese Lösung geeignet ist.
 2. Blockschaltbild.JPG    Eine grafische Darstellung welche funktionalen Blöcke dieses Projekt erfordert.
-3. Funktionsablauf.JPG    Eine kurze Beschreibung was in den einzelnen Funktionsblöcken passiert und wie die Meldungen weitergereicht werden.
+3. Funktionsablauf.JPG    Eine kurze Beschreibung was in den einzelnen Funktionsblöcken passiert und wie Meldungen weitergereicht werden.
 4. Schaltung.JPG          Eine detaillierte Zeichnung für eine bestimmte Anwendung mit allen beteiligten Komponenten. 
 5. Darstellung.JPG        Ein Beispiel, wie eine grafische Anzeige und eine Meldung (per  E-Mail) aussehen kann.
    
